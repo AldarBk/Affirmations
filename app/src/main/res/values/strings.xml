@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Аффирмации</string>
+    <string name="phrase1">Я уверен в своей способности программировать</string>
+    <string name="phrase2">Я с радостью встречаю новый день.</string>
+    <string name="phrase3">Я горжусь собой, когда пишу код</string>
+    <string name="phrase4">Я разрешаю себе быть собой.</string>
+    <string name="phrase5">Я верю в то, что я на правильном пути.</string>
+    <string name="phrase6">Я каждый день стараюсь научиться чему‑то новому.</string>
+    <string name="phrase7">Я верю в свой потенциал.</string>
+    <string name="phrase8">Я знаю, что могу добиться всего, чего захочу.</string>
+    <string name="phrase9">Я прощаю тех, кто причинил мне боль, и отпускаю обиды.</string>
+    <string name="phrase10">Я ценю себя.</string>
+</resources>
